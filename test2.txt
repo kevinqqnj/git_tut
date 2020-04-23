@@ -2,3 +2,4 @@ test2
 commit 2
 
 commit 3
+master c4
