@@ -1,4 +1,5 @@
-this is init
+feature 1 update
+
 commit 1
 
 bug fix in branch:bugFix
