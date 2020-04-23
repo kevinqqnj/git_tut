@@ -1,2 +1,4 @@
 this is init
 commit 1
+
+bug fix in branch:bugFix
