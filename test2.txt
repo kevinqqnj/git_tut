@@ -1,7 +1,8 @@
 test2
 commit 2
 
-commit 3
+commit 3 -- update after remote add
+
 feature 2--1
 master update (rebase)
 
