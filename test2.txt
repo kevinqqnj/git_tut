@@ -1,5 +1,5 @@
 test2
-commit 2
+commit
 
 commit 3 -- update after remote add
 
