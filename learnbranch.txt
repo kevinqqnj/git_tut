@@ -2,4 +2,4 @@ feature 1 update
 
 commit 1
 
-bug fix in branch:bugFix
+bug fix in branch:bugFix and feature 1
