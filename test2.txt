@@ -9,3 +9,4 @@ master update (rebase)
 feature 2--2
 
 test for revert
+test commit, combined
