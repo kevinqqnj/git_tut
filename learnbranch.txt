@@ -4,3 +4,5 @@ commit + combined
 
 master:update6
 bug fix in branch:bugFix and feature 1
+
+update for feature-pr
